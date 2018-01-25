@@ -1,2 +1,7 @@
 # StereoBalanceMeter
 A simple Stereo Balance Meter using L-R-Ratio.
+
+
+![screenshot](https://raw.githubusercontent.com/sonejostudios/StereoBalanceMeter/master/StereoBalanceMeter.png "StereoBalanceMeter (JackQT)")
+
+It measures the ration between the left and right channel and shows the position graphically.
